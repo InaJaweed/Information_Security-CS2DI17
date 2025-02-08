@@ -3,7 +3,9 @@
 # Badminton Club Penetration Testing
 
 ## Overview
-This project involves penetration testing of a virtual machine (club) hosting a web application for Earley Birds Badminton Club. The testing is performed from another virtual machine (tester) using various network scanning and vulnerability testing tools.
+**Course:** Database & Information Security (Second-Year Module)
+
+This project is part of the university coursework for the second-year module "Information Security", involves penetration testing of a virtual machine (club) hosting a web application for Earley Birds Badminton Club. The testing is performed from another virtual machine (tester) using various network scanning and vulnerability testing tools.
 
 ## Project Structure
 - info gathering: Information gathering about network services on the club VM
