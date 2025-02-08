@@ -1,4 +1,6 @@
-# Badminton Club Penetration Testing Project
+# Information Security - CS2DI17
+
+# Badminton Club Penetration Testing
 
 ## Overview
 This project involves penetration testing of a virtual machine (club) hosting a web application for Earley Birds Badminton Club. The testing is performed from another virtual machine (tester) using various network scanning and vulnerability testing tools.
@@ -10,4 +12,4 @@ This project involves penetration testing of a virtual machine (club) hosting a 
 - tools: Description of tools used in the penetration testing process
 
 ## Disclaimer
-This is an educational project. The techniques and tools described here should only be used in controlled, authorised environments. Do not attempt to use these techniques on any systems or networks without explicit permission.
+This is an educational project/coursework. The techniques and tools described here should only be used in controlled, authorised environments. Do not attempt to use these techniques on any systems or networks without explicit permission.
